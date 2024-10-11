@@ -16,8 +16,14 @@ I am currently studying Information Technology at <a href="https://www.nhlstende
 </details>
 
 ## Stats
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=KyanJeuring&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true" alt="KyanJeuring"/>
+</p>
+<p>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=KyanJeuring&theme=graywhite&hide_border=true" alt="KyanJeuring" />
+</p>
+<p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyanJeuring&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="KyanJeuring" />
+</p>
 
 </div>
