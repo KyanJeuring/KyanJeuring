@@ -21,3 +21,6 @@ I am currently studying Information Technology at <a href="https://www.nhlstende
 <p>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyanJeuring&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="KyanJeuring" />
 </p>
+
+## Contact me
+📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)
