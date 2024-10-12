@@ -6,12 +6,12 @@ At the age of 14, I created my first HTML website. It was terrible, but it was t
 ## Educational background
 
 ### Middle school
-<img src="./Assets/HCLogo.svg"/>
+<img src="./Assets/HCLogo.png" alt="Hondsrug College Logo"/>
 
 I graduated from my middle school, <a href="https://hondsrugcollege.nl/">Hondsrug College</a> with a ICT Certificate. During middle school, I did the specialized component: Science and Technology on the havo level.
 
 ### University of Applied Sciences (Bachelor Degree)
-<img src="./Assets/NHLStendenENLogo.svg"/>
+<img src="./Assets/NHLStendenENLogo.png" alt="NHL Stenden Logo"/>
 
 I am currently studying Information Technology at <a href="https://www.nhlstenden.com/en">NHL Stenden University of Applied Sciences</a>. 
 
