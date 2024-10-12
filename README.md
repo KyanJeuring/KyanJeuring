@@ -23,4 +23,4 @@ I am currently studying Information Technology at <a href="https://www.nhlstende
 </p>
 
 ## Contact me
-📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)
+### 📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)
