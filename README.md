@@ -16,15 +16,9 @@ I graduated from my middle school, <a href="https://hondsrugcollege.nl/">Hondsru
 I am currently studying Information Technology at <a href="https://www.nhlstenden.com/en">NHL Stenden University of Applied Sciences</a>. 
 
 ## Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=KyanJeuring&theme=graywhite&hide_border=true&include_all_commits=false&count_private=true" alt="KyanJeuring"/>
-</p>
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KyanJeuring&theme=graywhite&hide_border=true" alt="KyanJeuring" />
-</p>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyanJeuring&theme=graywhite&hide_border=true&include_all_commits=false&count_private=false&layout=compact" alt="KyanJeuring" />
-</p>
+![kyanjeuring's Stats](https://github-readme-stats.vercel.app/api?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&count_private=true)<p>
+![kyanjeuring's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyanjeuring&theme=slateorange&hide_border=true)
+![kyanjeuring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
 
 ## Contact me
 ### 📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)
