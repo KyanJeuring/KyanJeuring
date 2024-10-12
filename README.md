@@ -16,9 +16,9 @@ I graduated from my middle school, <a href="https://hondsrugcollege.nl/">Hondsru
 I am currently studying Information Technology at <a href="https://www.nhlstenden.com/en">NHL Stenden University of Applied Sciences</a>. 
 
 ## Stats
-![kyanjeuring's Stats](https://github-readme-stats.vercel.app/api?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&count_private=true)<p>
-![kyanjeuring's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyanjeuring&theme=slateorange&hide_border=true)
-![kyanjeuring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&layout=compact)
+![kyanjeuring's Stats](https://github-readme-stats.vercel.app/api?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&count_private=true)<br>
+![kyanjeuring's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyanjeuring&theme=slateorange&hide_border=true)<br>
+![kyanjeuring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&layout=compact)<br>
 
 ## Contact me
 ### 📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)
