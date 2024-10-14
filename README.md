@@ -8,7 +8,7 @@ At the age of 14, I created my first HTML website. It was terrible, but it was t
 ### Middle school
 <img src="./Assets/HCLogo.png" alt="Hondsrug College Logo"/>
 
-I graduated from my middle school, <a href="https://hondsrugcollege.nl/">Hondsrug College</a> with a ICT Certificate. During middle school, I did the specialized component: Science and Technology on the havo level.
+I graduated from my middle school, <a href="https://hondsrugcollege.nl/">Hondsrug College</a> with an ICT Certificate. During middle school, I did the specialized component: Science and Technology on the havo level.
 
 ### University of Applied Sciences (Bachelor Degree)
 <img src="./Assets/NHLStendenENLogo.png" alt="NHL Stenden Logo"/>
