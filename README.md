@@ -6,19 +6,14 @@ At the age of 14, I created my first HTML website. It was terrible, but it was t
 ## Educational background
 
 ### Middle school
-<img src="./Assets/HCLogo.png" alt="Hondsrug College Logo"/>
+![Hondsrug College Logo](./Assets/HCLogo.png)
 
-I graduated from my middle school, <a href="https://hondsrugcollege.nl/">Hondsrug College</a> with an ICT Certificate. During middle school, I did the specialized component: Science and Technology on the havo level.
+I graduated from my middle school, [Hondsrug College](https://hondsrugcollege.nl/) with an ICT Certificate. During middle school, I did the specialized component: Science and Technology on the havo level.
 
 ### University of Applied Sciences (Bachelor Degree)
-<img src="./Assets/NHLStendenENLogo.png" alt="NHL Stenden Logo"/>
+![NHL Stenden Logo](./Assets/NHLStendenENLogo.png)
 
-I am currently studying Information Technology at <a href="https://www.nhlstenden.com/en">NHL Stenden University of Applied Sciences</a>. 
-
-## Stats
-![kyanjeuring's Stats](https://github-readme-stats.vercel.app/api?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&count_private=true)<br>
-![kyanjeuring's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kyanjeuring&theme=slateorange&hide_border=true)<br>
-![kyanjeuring's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kyanjeuring&theme=slateorange&show_icons=true&hide_border=true&layout=compact)<br>
+I am currently studying Information Technology at [NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en).
 
 ## Contact me
-### 📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)
+### 📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)    
