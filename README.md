@@ -14,6 +14,13 @@ I graduated from my middle school, [Hondsrug College](https://hondsrugcollege.nl
 ![NHL Stenden Logo](./Assets/NHLStendenENLogo.png)
 
 I am currently studying Information Technology at [NHL Stenden University of Applied Sciences](https://www.nhlstenden.com/en).
+<details>
+    <summary><strong>Projects</strong></summary>
+    <ul>
+        <li><a href='https://github.com/KyanJeuring/IT1G-Website'>Sunny Socks</a></li>
+        <li><a href='https://github.com/KyanJeuring/Gemorskos-IT1H'>Gemorskos &#40;Curruntly working on&#41;</a></li>
+    </ul>
+</details>
 
 ## Contact me
 ### 📫 [kyanjeuring@gmail.com](mailto:kyanjeuring@gmail.com)    
